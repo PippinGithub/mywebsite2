@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pippingithub.github.io/mywebsite2/sitemap.xml
